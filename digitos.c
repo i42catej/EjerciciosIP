@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//comentario de Jose
 int main() {
 long int numero;
 
