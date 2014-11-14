@@ -13,8 +13,8 @@ int main() {
 		s++;
 	}
 	if((suma-num)==num){
-		printf("EL NUMERO ES PERFECTO");
+		printf("EL NUMERO ES PERFECTO\n");
 	}
-	else printf("NO ES PERFECTO");
+	else printf("NO ES PERFECTO\n");
 
 }
